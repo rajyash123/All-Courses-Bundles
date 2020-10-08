@@ -1,0 +1,283 @@
+''' Here are list of some of the main projects tutorials that need to followed these react projects can be from youtube udemy or any online resources '''
+
+
+''' here are list of some random projects according to their creator some are according to channel but some are random videos '''
+
+
+
+CHANNEL - ( Clever Programmer )  {
+
+    1. (Playlist) - The 5 day React javascript Challenge {
+
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oNQP__onO64kAHX_z0BdLv6
+
+        Type: amazon clone Playlist
+        Videos: 8
+        Hours: 8-10+
+
+        status: ---
+        Completion date: ---
+    
+    }
+
+    2. How to Build a TODO app with React + firebase {
+
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+
+        Type: video
+        Hours: 3 Hours
+
+        status: ---
+        Completion date: ---
+
+    }
+
+    3. Full stack React and Firebase tutorials - Build a Facebook messenger clone {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+
+        Type: video
+        Hours: 3 Hours
+
+        status: ---
+        Completion date: ---
+
+    }
+
+    4. How to Build a Instagram clone with React js {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+
+        Type: video
+        Hours: 3+ Hours
+
+        status: ---
+        Completion date: ---
+        
+    }
+
+    5. How to Build an Netflix Clone {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+
+        Type: video
+        Hours: 3+ Hours
+
+        status: ---
+        Completion date: ---
+
+    }
+
+    6. Build covid 19 tracker using React js {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+
+        Type: video
+        Hours: 3+ Hours
+
+        status: ---
+        Completion date: ---        
+
+    }
+
+    7. Build Tinder clone using React js {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+        
+        Type: video
+        Hours: 3+ Hours
+
+        status: ---
+        Completion date: --- 
+
+    }
+
+    8. Build Tik tok clone using React js {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+        
+        Type: video
+        Hours: 3 Hours
+
+        status: ---
+        Completion date: --- 
+
+    }
+
+    9. Build Twitter clone using React js {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+        
+        Type: video
+        Hours: 3+ Hours
+
+        status: ---
+        Completion date: --- 
+
+    }
+
+    10. Build a Slack clone using React js {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+        
+        Type: video
+        Hours: 4+ Hours
+
+        status: ---
+        Completion date: --- 
+
+    }
+
+    11. Build a Whatsapp clone using React js {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+        
+        Type: video
+        Hours: 4+ Hours
+
+        status: ---
+        Completion date: --- 
+
+    }
+
+    12. Build a Instagram reels clone using React js {
+        
+        Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
+        
+        Type: video
+        Hours: 4+ Hours
+
+        status: ---
+        Completion date: --- 
+
+    }
+
+}
+
+
+CHANNEL - ( Traversy Media ) {
+
+    1. (Playlist) - React Lyric search app {
+
+        Link: https://www.youtube.com/playlist?list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI
+
+        Type: Playlist videos
+        Videos: 3
+        Hours: 4+ Hours
+
+        status: ---
+        Completion date: --- 
+
+    }
+
+    2. Build an Expense Tracker | React Hooks & Context API {
+        
+        Link: https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb
+
+        Type: video
+        Hours: 1- Hours
+
+        status: ---
+        Completion date: --- 
+
+    }
+
+    3. React & Tailwind CSS Image Gallery {
+        
+        Link: https://www.youtube.com/watch?v=FiGmAI5e91M&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=2
+
+        Type: video
+        Hours: 1- Hours
+
+        status: ---
+        Completion date: --- 
+
+    }
+
+    ... many more 40 small projects picks one each - you can multiple project at one time
+
+
+}
+
+
+CHANNEL - ( Coding Addict )   {
+
+    1. React Projects - Search Github Users {
+
+        Link: https://www.youtube.com/watch?v=dR_Fol8nAzo&list=PLnHJACx3NwAe5XQDk9xLgym7FF8Q4FYW7
+
+        Type: video
+        Hours: 5+ Hours
+
+        status: ---
+        Completion date: --- 
+        
+    }
+
+    2. Updated React Beach Resort {
+
+        Link: https://www.youtube.com/watch?v=l0JbuMVXaTs&list=PLnHJACx3NwAe5XQDk9xLgym7FF8Q4FYW7&index=7
+
+        Type: video
+        Hours: 5+ Hours
+
+        status: ---
+        Completion date: ---        
+
+    } 
+
+}
+
+
+
+CHANNEL - ( FreecodeCamp )  {
+    
+    1. React Tutorial: Weather App with RESTful APIs {
+
+        Link: https://www.youtube.com/watch?v=cdBvSlVCOXw&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=15
+
+        Type: video
+        Hours: 3+ Hours
+
+        status: ---
+        Completion date: ---        
+
+    }
+
+    2. How to Build Tetris in React - GameDev Tutorial (with React Hooks!) {
+
+        Link: https://www.youtube.com/watch?v=ZGOaCxX8HIU&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=23
+
+        Type: video
+        Hours: 2+ Hours
+
+        status: ---
+        Completion date: ---        
+
+    }
+
+    3. Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing) {
+
+        Link: https://www.youtube.com/watch?v=ZGOaCxX8HIU&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=23
+
+        Type: video
+        Hours: 7+ Hours
+
+        status: ---
+        Completion date: ---        
+
+    }
+
+    4. React / Typescript Tutorial - Build a Quiz App {
+        
+        Link: https://www.youtube.com/watch?v=F2JCjVSZlG0&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&index=26
+
+        Type: Videos
+        Hours: 1+
+
+        status: ---
+        Completion date: ---         
+
+    }
+
+}

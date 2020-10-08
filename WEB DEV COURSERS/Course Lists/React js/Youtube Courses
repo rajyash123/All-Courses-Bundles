@@ -1,0 +1,48 @@
+""" Here we are going to list some of the important youtube channel that teaches us react for free """
+
+# here we are to list courses according to channel 
+
+
+CHANNEL - ( FreecodeCamp )  {
+
+    1. Learn React JS - Full Course for Beginners - Tutorial 2019 {
+
+        type: Beginners Videos
+        Hours: 5+ 
+
+        Status: ---
+        Completion date: ---
+
+    }
+
+    2. React Component Lifecycle - Hooks / Methods Explained {
+
+        Type: Beginners Videos
+        Hours: 30min
+
+        Status: ---
+        Completion date: ---
+
+    }
+
+    3. Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks {
+
+        Type: Beginners Videos
+        Hours: 10+ 
+
+        Status: ---
+        Completion date: ---
+
+    }
+
+    4. Learn React Native Gestures and Animations - Tutorial {
+
+        Type: Beginners Videos
+        Hours: 10+ 
+
+        Status: ---
+        Completion date: ---
+
+    }
+
+}

@@ -1,0 +1,86 @@
+''' These are some list of react courses that needs to be completed '''
+
+
+BASIC LEVEL {
+
+    1. React - The complete Guide (incl Hooks, React Router, Redux) {   (STATUS: ---)
+
+        creator: Academind by Maximilian Schwarzmuller
+        Hours: 40+ 
+        Level: Beginner to advance
+        Status: On going
+        Completion date: 
+
+        Projects {
+            - Burger apps
+            - Simple person app
+        }
+
+    }
+
+    2. Complete React Developer in 2020 (with Redux, Hooks, GraphQL) {  (STATUS: ---)
+
+        creator: Andrei Neagoie, Yihua Zhang
+        Hours: 40+
+        Level: Beginner to Advance
+        Status: Not purchased 
+        Completion date: --
+        
+        Projects {
+            - Large scale E-commerce projects
+        }
+    }
+
+    3. React front to Back {        (STATUS: ---)
+
+        creator: Brad Traversy
+        Hours: 14+
+        Level: Beginner to Advance
+        Status: Not purchased
+        Completion date: --
+        
+        Projects {
+            - Github finder
+            - Contact keeper (Full stack)
+            - Itlogger (redux)
+        }
+
+    }
+
+    4. The Modern React Bootcamp ( Hooks, context, Nextjs, Router ) {  (STATUS: ---)
+
+        creator: Colt steele
+        Hours: 39+
+        Level: Beginner to advance
+        status: Not purchased
+        Completion date: --
+
+        projects {
+            - Pokedex project
+            - Lights out Game
+            - Todo list Project
+            - Dad jokes app
+            - The massive Color Project apps
+        }
+
+        # these are some of the basic to advance courses here we are going to learn basic react js skills
+
+    }
+}
+
+
+ADVANCE LEVEL COURSES {
+
+    1. Advanced React and Redux {
+
+        creator: Stephen Grider
+        Hours: 21+ 
+        Level: advanced 
+        Status: Not purchased
+        Completion date: --
+
+        projects {no projects}
+    }
+
+}
+
