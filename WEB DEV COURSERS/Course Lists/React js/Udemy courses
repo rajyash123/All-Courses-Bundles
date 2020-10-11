@@ -1,4 +1,4 @@
-''' These are some list of react courses that needs to be completed '''
+''' These are some list of react courses that we need to subscribe '''
 
 
 BASIC LEVEL {
@@ -80,6 +80,42 @@ ADVANCE LEVEL COURSES {
         Completion date: --
 
         projects {no projects}
+    }
+
+    2. Server Side Rendering with React and redux {
+
+        creator: Stephen Grider
+        Hours: 8+ 
+        Level: Intermediate
+        Status: Not purchased
+        Completion date: --
+
+        projects {no projects}
+
+    }
+
+    3. GraphQL with react: The complete Developer Guide {
+
+        creator: Stephen Grider
+        Hours: 8+ 
+        Level: Intermediate
+        Status: Not purchased
+        Completion date: --
+
+        projects {no projects}
+
+    }
+
+    2. React native: Advanced concept {
+
+        creator: Stephen Grider
+        Hours: 16+ 
+        Level: Intermediate
+        Status: Not purchased
+        Completion date: --
+
+        projects {no projects}
+
     }
 
 }

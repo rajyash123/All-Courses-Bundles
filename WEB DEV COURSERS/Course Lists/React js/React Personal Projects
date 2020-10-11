@@ -1,8 +1,85 @@
 "List of some of the project to do after completeing any Course bundel"
 
 
-FACEBOOK LIKE SITE  {
+1. SOCIAL NETWORKING SITE  {
 
-    description: goal here is to make 
+    Description: this is a site where people can upload their posts and can view other peoples post and blogs
+
+        - They can upload photo videos
+        - They can chat with someone
+        - They can share like and dislike the post and contents
+        - People can view someone's profile and send friend request.
+        - People can post their advertisement
+        - for ads their is going to be the business version of the application
+        
+    Scale: Large scale application
+
+    Inspiration: tweeter, Facebook, Instagram
+
+    Application inside the main application:
+
+        1. Chat box 
+        2. blog post and feeds section
+        3. profile section {
+
+            - user auth
+            - request
+            - photo and feed section
+
+        }
+
+        4. advertisement section {
+
+            - post ads 
+            - view target audiences 
+            - ad plans
+
+        }
 
 }
+
+
+2. ONLINE TEACHING PLATFORM - (Khan acedemy clone) {
+
+    Note: we will upload this whole curriculum in an application similar to this one
+    
+    Description:
+
+        - Here people can subscribe and choose multiple courses 
+        - Start following the courses 
+        - monitor their progress
+        - select courses and ad to their bundles
+        - One can also make a list of the courses they need to follow.
+
+    Scale: medium-large scale site
+
+    Inspiration: Udemy, Khan acedemy, freecode camp
+
+    App inside the main application {
+
+        - Dashboard {
+            - track progression in every course.
+            - list of subscribed courses
+        }
+
+        - Profile {
+            - progress bar
+            - account settings
+        }
+
+        - Courses {
+            - list of courses according to categories.
+            - course module entering youtube videos links
+            - tick if completed
+        
+        see khan acedemy for reference 
+
+        }
+
+    }
+
+}
+
+
+
+
