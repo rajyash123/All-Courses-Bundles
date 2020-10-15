@@ -3,6 +3,7 @@
 
 BASIC LEVEL {
 
+    {ADDED TO BUNDLE 1}
     1. React - The complete Guide (incl Hooks, React Router, Redux) {   (STATUS: ---)
 
         creator: Academind by Maximilian Schwarzmuller
@@ -11,6 +12,8 @@ BASIC LEVEL {
         Status: On going
         Completion date: 
 
+        Bundle - 1
+
         Projects {
             - Burger apps
             - Simple person app
@@ -18,6 +21,7 @@ BASIC LEVEL {
 
     }
 
+    {ADDED TO BUNDLE 1}
     2. Complete React Developer in 2020 (with Redux, Hooks, GraphQL) {  (STATUS: ---)
 
         creator: Andrei Neagoie, Yihua Zhang

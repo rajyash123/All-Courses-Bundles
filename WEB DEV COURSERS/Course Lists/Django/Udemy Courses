@@ -2,6 +2,7 @@
 
 BASIC TO INTERMEDIATE LEVEL {
 
+    {ADDED TO BUNDLE 1}
     1. Build a Backend REST API with Python & Django - Beginner {
 
         Udemy Link: https://www.udemy.com/course/django-python/
@@ -41,6 +42,18 @@ BASIC TO INTERMEDIATE LEVEL {
         Completion date: 
 
         Project: {This is a project}  
+    }
+
+    4. Django Core | A Reference Guide to Core Django Concepts {
+
+        udemy link: https://www.udemy.com/course/django-core/
+
+        Creator: Justin Mitchel
+        Duration: 18+ hours
+
+        Status: not purchased
+        Completion date: 
+
     }
 
 }
