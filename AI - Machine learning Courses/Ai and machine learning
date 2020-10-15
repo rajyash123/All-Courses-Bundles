@@ -1,0 +1,354 @@
+'''
+
+    As artificial intelligence is broad field it has many domain.
+
+    Here in this Course list and bundles we are going to list all the subjects that we need to learn to understand the vast field of Ai and machine 
+    learning.
+
+    We are list all different subjects, courses and books of each and every sub domain.
+
+'''
+
+We need to take certain path to move from absolute beginner to expert. We need to follow a certain path to achieve our goal of learning about as AI as 
+much as possible.
+
+
+1. PROGRAMMING LANGUAGE AND TOOLS {
+
+    PYTHON: {
+
+        # Python is a language well suited for machine learning and algorithm application. It has many builtin tools for developement
+
+        Machine Learning Tools {
+
+            TensorFlow - is one of the best library available for working with Machine Learning on Python.
+
+            Shogun - {
+                '''Shogun is an open-source machine learning toolbox with a focus on Support Vector Machines (SVM), 
+                it is written in C++ and it’s among the oldest machine learning tools, created in 1999! It offers a 
+                wide range of unified machine learning methods and the goal behind its creation is to provide machine 
+                learning with transparent and accessible algorithms as well as free machine learning tools to anyone 
+                interested in the field.'''
+            }
+
+            Keras – {
+                Keras is a high-level neural networks API and provides a Python deep learning library.  
+            }
+
+            Scikit-Learn – {
+                This is an open source tool for data mining and data analysis. 
+                Although it’s listed under machine learning in this article, it is suitable for uses in data science as well.
+            }
+
+            Pattern – {
+                Pattern is a web mining module and provides tools for data mining, natural language processing, 
+                machine learning, network analysis and <canvas> visualization.
+            } 
+
+            Theano – Arguably one of the most mature Python deep learning libraries, Theano is named after the Greek Pythagorean 
+            philosopher and mathematician who, allegedly, was the pupil, daughter or wife of Pythagoras.
+
+        }
+
+        Data science Tools {
+
+            SciPy – This is a Python-based ecosystem of open-source software for mathematics, science, and engineering. 
+                    SciPy uses various packages like NumPy, IPython or Pandas to provide libraries for common math- and 
+                    science-oriented programming tasks. 
+            
+            Dask – Dask is a tool providing parallelism for analytics by integrating into other community projects like NumPy, Pandas and Scikit-Learn. 
+
+            Numba – This tool is an open source optimizing compiler that uses the LLVM compiler infrastructure to compile Python syntax to machine code.
+
+            HPAT – High-Performance Analytics Toolkit (HPAT) is a compiler-based framework for big data. 
+
+            Cython – When working with math-heavy code or code that runs in tight loops, Cython is your best choice.
+        }
+
+    }
+
+}
+
+
+LEVEL 2. DATA STRUCTURE AND ALGORITHMS {
+
+    Data structure {
+
+        1. Basic data structure.
+        
+        2. Advance data structure.
+
+    }
+
+    Algorithms {
+
+        1. Greedy Algorithm
+
+        2. Dynamic programming
+
+        3. Graph algorithms.
+
+        4. algorithm design
+
+        5. Advance algorithm
+
+    }
+
+    Practical problems {
+
+        - solving online challenges 
+        
+    }
+
+}
+
+### MATHS IS IMPORTANT BUT WE ARE NOT INVOLVING THE HERE IT INCLUDED AS ANOTHER SECTION WITH ITS OWN COURSE BUNDLES ###
+
+LEVEL 3. MACHINE LEARNING {
+
+    1. Machine learning algorithm
+
+    2. Applications of machine learning
+
+    3. Creating Models and training the Models.
+
+}
+
+
+{ AFTER LEARNING MACHINE LEARNING ALOGRITHMS WE WILL QUALIFIED TO MOVE TO MORE ADVANCED TOPICS SUCH AS DEEP LEARNING }
+
+
+
+LEVEL 4. Deep learning {
+
+    { # here applied mathematics is required so look for Applied maths section for course bundles # }
+
+    1. Deep Learning Modern practices {
+
+        Deep Feedforward Networks {
+
+            Deep feedforward networks, also called feedforward neural networks, or multilayer perceptrons,
+            are the quintessential deep learning models. The goal of one of these feedforward networks is to approximate some function f.
+
+            Topics to learn from Deep Feedforward Networks:{
+
+                - Gradient-Based Learning,
+                - Hidden Units, 
+                - Architecture Design, 
+                - Back-Propagation  
+                - Differential Algorithms
+
+            }
+
+
+
+        }
+
+        Regularization for Deep Learning  {
+
+            A common problem in machine learning is how to create an algorithm that will perform well not just on the training data, 
+            but also on new inputs. Many strategies in ML are designed to reduce test error usually at the expense of increased training error.
+
+            Topics to learn from Regularization for deep learning: {
+
+                - Parameter norm penalties, 
+                - Norm penalties as constrained optimization, 
+                - Regularization and Under Constrained problems, 
+                - Dataset Augmentation, Noise Robustness, 
+                - Semi-Supervised Learning, Multitask Learning, 
+                - Early Stopping, 
+                - Parameter Tying and Parameter Sharing, 
+                - Sparse Representations, 
+                - Bagging and other Ensemble Methods, 
+                - Dropout, Adversarial Training, 
+                - Tangent Distance, 
+                - Tangent Prop,
+                - Manifold Tangent Classifier.
+
+            }
+
+        }
+
+        Optimization for Training Deep Models {
+
+            Deep learning models involve optimization in many ways. For example inference in models such as Principal Component Analysis involves solving an optimization problem. 
+            The most difficult optimization problem in deep learning is that of neural network training.
+
+            Topics to learn from Optimization for Training Deep Models: {
+
+                - Learning vs Pure Optimization, 
+                - Challenges in Neural Network Optimization, 
+                - Basic Algorithms, 
+                - Parameter Initialization Strategies, 
+                - Algorithms with Adaptive Learning Rates, 
+                - Approximate Second-Order Methods, 
+                - Optimization Strategies and Meta-Algorithms
+
+            }
+
+        }
+
+        Convolutional Neural Networks (CNNs) {
+
+            Convolutional neural networks are a specialized kind of neural network for processing data that has a known grid-like topology. 
+            Examples of this are time-series data which can be though of as a 1-D grid taking samples at regular time intervals and we also
+            have images which can be thought of as a 2-D grid of pixels. Convolution is a specialized kind of linear operation.
+
+            Topics to learn for CNNs: {
+
+                - The convolution operation, 
+                - Motivation, Pooling, 
+                - Convolution and Pooling,
+                - Variants of the Basic Convolution Function, 
+                - Structured Outputs, 
+                - Data Types, 
+                - Efficient Convolution Algorithms, and 
+                - Random or Unsupervised Features
+
+            }
+
+        }
+
+        Recurrent Neural Networks (RNNs) {
+
+            Recurrent neural networks are a family of neural networks for processing sequential data. These are very similar to CNNs in the fact 
+            that it is specialized for processing a grid of values however they use a system to process a sequence of values and generalize across them.
+
+            Topics to learn RNNs: {
+
+                - Unfolding Computational Graphs, 
+                - Bidirectional RNNs, 
+                - Encoder-Decoder Sequence-to-Sequence Architectures, 
+                - Deep Recurrent Networks, 
+                - Recursive Neural Networks, 
+                - The challenge of long-term dependencies, 
+                - Echo State Networks, 
+                - Leaky Units and other strategies for multiple time scales, 
+                - The Long Short-Term Memory (LSTM) and other Gated RNNs, 
+                - Optimization for Long-Term Dependencies, Explicit Memory
+
+            }
+
+        }
+
+        Deep Learning Methodology {
+
+            Successfully applying deep learning techniques requires more than just a good knowledge of what algorithms exist and the principals that 
+            explain how they work. During day to day development of machine learning systems, practitioners need to understand whether or not to gather 
+            more data, increase or decrease model complexity, add or remove features, improve the optimization of a model, improve approximate inference
+            in a model, or debug the implementation of the model, and more. All of these are very time consuming and therefore it is important to be able
+            to determine the right course of action.
+
+            Topics for deep learning methodology: {
+
+                - Performance Metrics, 
+                - Default baseline models, 
+                - Determining whether to Gather More Data, 
+                - Selecting Hyperparameters, and 
+                - Debugging Strategies
+
+            }
+
+        }
+
+        Deep Learning Applications {
+
+            Deep learning can be used to solve applications in computer vision, speech recognition, natural language processing, and other areas. 
+            Some degree of specialization is required in each of these tasks when it comes to designing the algorithms.
+
+            Topics to learn for deep learning applications: {
+
+                - Large-Scale Deep learning, 
+                - Computer Vision, 
+                - Speech Recognition, and 
+                - Natural language processing
+
+            }
+
+        }
+
+    }
+
+    2. Deep Learning Research Topics {
+
+        Linear Factor Models {
+
+            Probabilistic PCA and Factor Analysis, Independent Component Analysis (ICA), Slow Feature Analysis, Sparse Coding, 
+            and Manifold Interpretation of PCA
+
+        }
+
+        AutoEncoders {
+
+            Undercomplete Autoencoders, Regularized Autoencoders, Representational Power, Layer size and Depth, Stochastic Encoders and Decoders, 
+            Denoising Autoencoders, Learning Manifolds with autoencoders, Contractive Autoencoders, Predictive Sparse decomposition, 
+            and Applications of Autoencoders
+
+        }
+
+        Representation Learning {
+
+            Greedy Layer-Wise Unsupervised PreTraining, Transfer Learning and Domain Adaptation, Semi-Supervised Disentangling of Causal Factors, 
+            Distributed Representation, Exponential Gains from Depth, and Clues to discover underlying causes
+
+        }
+
+        Structured Probabilistic Models For Deep Learning {
+
+            Challenges of Unstructured Modeling, Using Graphs to Describe Model Structure, Sampling from Graphical Models, 
+            Advantages of Structured Modeling, Learning about Dependencies, Inference and Approximate Inference, and The Deep Learning Approach to Structured Probabilistic Models
+
+        }
+
+    }
+
+
+}
+
+
+
+{ Natural language processing is also the part deep learning it is at same level }
+
+
+LEVEL 4. Natural Language Processing {
+
+    { THIS TOPIC FREQUEST APPLICATION OF PURE MATHES SO SEE THE BUNGLES OF MATHS FOR  }
+
+    Natural Language Processing (NLP) is the area of research in Artificial Intelligence focused on processing and using Text and Speech 
+    data to create smart machines and create insights.
+
+    Preprocessing Techniques {
+
+        Tokenization: is used to segment the input text into its constituents words (tokens). In this way, 
+                        it becomes easier to then convert our data into a numerical format.
+
+        Stop Words Removal: is applied in order to remove from our text all the prepositions (eg. “an”, “the”, etc…) which can just be considered
+                            as a source of noise in our data (since they do not carry additional informative information in our data).
+
+        Stemming: is finally used in order to get rid of all the affixes in our data (eg. prefixes or suffixes). In this way, it can in fact become much easier 
+                    for our algorithm to not consider as distinguished words which have actually similar meaning (eg. insight ~ insightful).
+
+    }
+
+    Modelling Techniques {
+
+        Bag of Words - Bag of Words is a technique used in Natural Language Processing and Computer Vision in order to create new features for training 
+                        classifiers (Figure 2). This technique is implemented by constructing a histogram counting all the words in our document 
+                        (not taking into account the word order and syntax rules).
+        
+        Latent Dirichlet Allocation (LDA) - Latent Dirichlet Allocation (LDA) is a type of Topic Modelling technique. Topic Modelling is a field of research 
+                                            focused on finding out ways to cluster documents in order to discover latent distinguishing markers which can 
+                                            characterize them based on their content (Figure 3). 
+
+        Word Embeddings - Word Embeddings are one of the most common ways to encode words as vectors of numbers which can then fed in into our Machine Learning 
+                            models for inference.
+
+        Sentiment Analysis - Sentiment Analysis is an NLP technique commonly used in order to understand if some form of text expresses positive, 
+                            negative or neutral sentiment about a topic. 
+
+    }
+
+    
+
+}
+
