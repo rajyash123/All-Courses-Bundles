@@ -11,13 +11,12 @@
 
 COURSES {
 
-    React - The complete Guide (incl Hooks, React Router, Redux) {   (STATUS: ---)
+    React - The complete Guide (incl Hooks, React Router, Redux) {   (STATUS: ""COMPLETED"")
 
         creator: Academind by Maximilian Schwarzmuller
         Hours: 40+ 
         Level: Beginner to advance
-        Status: On going
-        Completion date: 
+        Status: COMPLETED 
 
         Projects {
             - Burger apps
@@ -27,20 +26,19 @@ COURSES {
     }
 
 
-    Complete React Developer in 2020 (with Redux, Hooks, GraphQL) {  (STATUS: ---)
+    Complete React Developer in 2020 (with Redux, Hooks, GraphQL) {  (STATUS: ""COMPLETED"")
 
         creator: Andrei Neagoie, Yihua Zhang
         Hours: 40+
         Level: Beginner to Advance
-        Status: Not purchased 
-        Completion date: --
+        Status: COMPLETED
         
         Projects {
             - Large scale E-commerce projects
         }
     }
 
-    SQL Tutorial - Full Database Course for Beginners {
+    SQL Tutorial - Full Database Course for Beginners { 
 
         links: https://www.youtube.com/watch?v=HXV3zeQKqGY
         
@@ -50,8 +48,9 @@ COURSES {
 
         Durations: 4+
         Status:
-
     }
+
+    {{ REACT + DJANGO PROJECTS = 1 }}
 
     Learn PostgreSQL Tutorial - Full Course for Beginners {
 
@@ -86,7 +85,7 @@ PROJECTS {
 
     REACT YOUTUBE PROJECTS {
 
-        3. Full stack React and Firebase tutorials - Build a Facebook messenger clone {
+        1. Full stack React and Firebase tutorials - Build a Facebook messenger clone {
         
             Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
 
@@ -98,7 +97,7 @@ PROJECTS {
 
         }
 
-        4. How to Build a Instagram clone with React js {
+        2. How to Build a Instagram clone with React js {
             
             Link: https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP
 
@@ -114,7 +113,31 @@ PROJECTS {
 
     REACT + DJANGO PROJECTS {
 
-        1. (playlist) - Build an Ecommerce Website with Django and React {
+        1. (playlist) - Build an API with Django {
+
+            Playlist link - https://www.youtube.com/watch?v=RPsDhoWY_kc
+
+            creator: JustDjango
+            Hours: 3+
+
+            Status: ---
+            Completion Date: ---
+
+        }
+
+        2. (playlist) - Full Stack React & Django {
+
+            Playlist link - youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60
+
+            creator: Traversy media
+            Hours: 5+
+
+            Status: ---
+            Completion Date: ---
+
+        }
+
+        2. (playlist) - Build an Ecommerce Website with Django and React {
 
             Playlist link - https://www.youtube.com/watch?v=RG_Y7lIDXPM&list=PLLRM7ROnmA9Hp8j_1NRCK6pNVFfSf4G7a
 
